@@ -1,2 +1,0 @@
-# Simplotel
-Coding-Assignment
